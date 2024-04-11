@@ -1,0 +1,152 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.img{
+    background-image: url(wall1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.circle{
+      border: 1px solid black;
+      height: 15px;
+      width: 15px;
+      border-radius: 10px;
+      background-color: aqua;
+      
+}
+.name{
+    margin-top: -10px;
+    margin-left: 45px;
+    color: azure;
+}
+.name1{
+    color: azure;
+    margin-left: 30px;
+}
+.photo{
+    background-image: url(visg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 1px solid ;
+    margin: 80px;
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+}
+.link{
+    margin-left: 700px;
+    margin-top: -500px;
+    padding: 30px;
+}
+.descripition{
+    margin-left: 430px;
+    color: azure;
+    margin-top: 80px;
+}
+.resume1{
+    width: 80px;
+    height: 80px;
+    border: 1px solid;
+    border-radius: 40px;
+    background-color: yellow;
+    margin-left: 400px;
+    margin-top: 30px;
+    font-size:small;
+    font-weight: 200;
+    text-align: center;
+    padding-top: 30px;
+    color: azure;
+}
+.resume2{
+    width: 80px;
+    height: 80px;
+    border: 1px solid;
+    border-radius: 40px;
+    background-color: orange;
+    margin-left: 600px;
+    margin-top: -78px;
+    font-size:small;
+    font-weight: 200;
+    text-align: center;
+    padding-top: 30px;
+    color: azure;
+}
+.resume3{
+    width: 80px;
+    height: 80px;
+    border: 1px solid;
+    border-radius: 40px;
+    background-color: aqua;
+    margin-left: 800px;
+    margin-top: -80px;
+    font-size:small;
+    font-weight: 200;
+    text-align: center;
+    padding-top: 30px;
+    color: azure;
+}
+.resume4{
+    width: 80px;
+    height: 80px;
+    border: 1px solid;
+    border-radius: 40px;
+    background-color:beige;
+    margin-left: 1000px;
+    margin-top: -84px;
+    font-size:small;
+    font-weight: 200;
+    text-align: center;
+    padding-top: 30px;
+    color: azure;
+}
+.email{
+    color: azure;
+    margin-left: 90px;
+    margin-top: 35px;
+}
+.email1{
+    color: azure;
+    margin-left: 90px;
+    margin-top: 8px;
+}
+.github{
+    color: azure;
+    margin-left: 350px;
+    margin-top: -40px;
+}
+.github1{
+    color: azure;
+    margin-left: 350px;
+    margin-top: 10px;
+}
+.fellow{
+    color: azure;
+    margin-left: 650px;
+    margin-top: -35px;
+}
+.fellow1{
+    color: azure;
+    margin-left: 650px;
+    margin-top: 10px;
+}
+.copy{
+    
+    color: azure;
+    margin-left: 950px;
+    margin-top: -35px;
+}
+.box{
+    padding-bottom: 80px;
+    margin-top: 30px;
+    border: 1px solid;
+    height: 50px;
+    width: 1200px;
+    border-radius: 25px;
+    margin-left: 10px;
+    margin-right: 50px;
+}
+.wel{
+    text-align: center;
+}
