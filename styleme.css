@@ -1,0 +1,20 @@
+.back{
+    background-image: url(IMG-20240119-WA0018.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.box{
+    margin-left: 10px;
+    border: 2px solid white;
+    border-radius: 30px;
+    width: 750px;
+    height: 440px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.body1{
+    color: aqua;
+    margin-top: 30px;
+    margin-left: 250px;
+    padding-bottom: 20px;
+}
